@@ -45,7 +45,8 @@ This Code of Conduct is in addition to, and does not in any way nullify or
 invalidate, any other terms or conditions related to use of Quill services.
 
 The definitions of various subjective terms such as "discriminatory", "hateful",
-or "confusing" will be decided at the sole discretion of the Quill abuse team.
+or "confusing" will be decided at the sole discretion of the Quill moderation
+team.
 
 ### Friendly Harassment-Free Space
 We are committed to providing a friendly, safe and welcoming environment for
